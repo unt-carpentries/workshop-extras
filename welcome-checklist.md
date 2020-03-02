@@ -6,9 +6,9 @@ Before we begin, we ask that you complete this list to ensure that you have acce
 
 * Log-in to **eaglenet** network with your EUID. If you do not have an EUID, please place a red sticky note on your laptop and ask a helper for wifi credentials.
 
-* Open the webpage http://bit.ly/swc020420 to access the **Etherpad**.  We will use this Etherpad to share links and snippets of code, take notes, ask and answer questions, and whatever else comes to mind. To start, please add yourself to the attendee list.
+* Open the webpage [[ bitly link ]] to access the **Etherpad**.  We will use this Etherpad to share links and snippets of code, take notes, ask and answer questions, and whatever else comes to mind. To start, please add yourself to the attendee list.
 
-* If you have not downloaded any of the software used for these lessons, please go to the event page and follow the setup instructions at the bottom of the page: https://unt-carpentries.github.io/2020-02-04-unt-swc/. Once you have downloaded and installed the software, please go through the steps below to verify everything is working.
+* If you have not downloaded any of the software used for these lessons, please go to the event page and follow the setup instructions at the bottom of the page: [[ workshop link ]]. Once you have downloaded and installed the software, please go through the steps below to verify everything is working.
 
 ##### Open the bash shell
 
@@ -26,6 +26,11 @@ Before we begin, we ask that you complete this list to ensure that you have acce
 
 * In the terminal, type `jupyter notebook` to run Jupyter Notebook. After a few seconds, text should appear in your terminal and Jupyter Notebook should pop up in a browser window. You can close the browser window and press `CTRL+C` in the terminal to exit the program.
     * If Jupyter Notebook doesn't open, put your red sticky note on the top of your laptop.
+
+##### Check that R and Rstudio are installed
+
+* Open the Rstudio application and in the window labeled "console" type the following and then hit Enter: `print("Hello!")`
+	* If you get an error or anything other than `[1] "Hello!"`, put your red sticky note on the top of your laptop.
 
 ##### Check that nano is installed
 
